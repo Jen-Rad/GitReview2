@@ -18,4 +18,5 @@ Git project setup for teams
 
 8. Team creates pull request from develop to master
 
-9.
+9. Go back to log in intellj, and right click develop branch
+10. Go to the local develop branch and right click "create a new branch"
