@@ -17,4 +17,8 @@ Git project setup
 
 8. Team creates pull request from develop to master
 
-9.
+9.Create Develop Branch
+10. Create new Feature Branch
+11. Push to origin remote
+12. Pull request to develop branch
+13. Merge
